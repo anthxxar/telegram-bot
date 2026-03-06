@@ -19,7 +19,7 @@ quotes = [
 ]
 
 hi = [
-    "Привіт."
+    "неПривіт."
 ]
 
 @bot.message_handler(commands=['start'])
