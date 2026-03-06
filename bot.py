@@ -11,7 +11,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 bot = telebot.TeleBot(BOT_TOKEN)
 
 quotes = [
-    "Не здавайся.",
+    "1Не здавайся.",
     "Дисципліна сильніша за мотивацію.",
     "PAAAAM paapaprar",
     "Навчання — це інвестиція в себе.",
